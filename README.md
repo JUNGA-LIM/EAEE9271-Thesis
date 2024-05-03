@@ -1,4 +1,4 @@
-# 
+# Climate Resilient Energy Infrastructure Planning for New York State
 
 
 ## Outline
