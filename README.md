@@ -1,5 +1,5 @@
-# EAEE9271
-EAEEE9271_006_2024_1 - EARTH &amp; ENVIRONMNTL ENG THESIS
+# 
+
 
 ## Outline
 To achieve climate goals, states like New York are accelerating their transition from fossil fuels to renewable energy sources. Concurrently,
@@ -13,3 +13,7 @@ climate change impacts.
 
 ## Timeline
 - [Timeline](https://docs.google.com/spreadsheets/d/1cfBpm1mIukG4tm617l5w-lIogWdYHlWR1gUT4idm1Nw/edit#gid=0])
+
+## EAEE9271
+
+This research is being carried out as part of the EAEEE9271_006_2024_1 - EARTH &amp; ENVIRONMNTL ENG THESIS course. Additional resources related to this topic can be explored through https://github.com/JUNGA-LIM/EAEE9271-Thesis
