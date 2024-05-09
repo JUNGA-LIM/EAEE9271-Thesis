@@ -10,4 +10,4 @@ To achieve climate goals, states like New York are accelerating their transition
 
 ## EAEE9271
 
-This research is being carried out as part of the EAEEE9271_006_2024_1 - EARTH &amp; ENVIRONMNTL ENG THESIS course. Additional resources related to this topic can be explored through https://github.com/JUNGA-LIM/EAEE9271-Thesis
+This research is being carried out as part of the EAEEE9271_006_2024_1 - EARTH &amp; ENVIRONMNTL ENG THESIS course. Additional resources related to this topic can be explored through this [drive](https://drive.google.com/drive/folders/19YudDEU-QqSzUKE2PSDKsQ7JuwGo43y4?usp=sharing)
