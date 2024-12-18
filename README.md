@@ -1,4 +1,4 @@
-# NYC-Vulnerability
+# Evaluating Climate Change Vulnerability Characteristics of New York City using Machine Learning Methods
 
 
 
