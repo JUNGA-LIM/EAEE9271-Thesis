@@ -1,5 +1,7 @@
 # Evaluating Climate Change Vulnerability Characteristics of New York City using Machine Learning Methods
 
+## Outline
+![image](https://github.com/user-attachments/assets/21f79c22-15ae-42cc-9879-4f156b643b0b)
 
 
 ## EAEE9271
